@@ -19,5 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=QuocJP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 tải về tất cả và dán vào một thư mục đồng nhất để chạy trang web của bạn trên local PC 
-
+```
 VD: This PC >> Desktop >>  Folder >> ...
+```
